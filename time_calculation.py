@@ -1,4 +1,3 @@
-from ast import If
 
 
 start_time    = input ('start time (HH:MM)')
